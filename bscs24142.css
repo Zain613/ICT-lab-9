@@ -9,3 +9,16 @@ h1{
     font-size: 25px;
     color: rgb(46, 226, 43);
 }
+.firstdiv{
+    width: 500px;
+    height: 500px;
+    background-color: #76cfbf; 
+    border-width: 3px;
+    border-color: #4682b4;     
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    color: blue;
+
+}
